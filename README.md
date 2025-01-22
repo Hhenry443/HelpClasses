@@ -45,7 +45,7 @@ A class for interacting with a MySQL database using PDO:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/henrybarnes/helper-files.git
+   git clone https://github.com/Hhenry443/HelpClasses.git
    ```
 2. Include the helper classes in your PHP project:
    ```
