@@ -49,8 +49,8 @@ A class for interacting with a MySQL database using PDO:
    ```
 2. Include the helper classes in your PHP project:
    ```
-   require_once 'path/to/Utility.php';
-   require_once 'path/to/DatabaseHelper.php';
+   require_once 'path/to/helperClass.php';
+   require_once 'path/to/sqlHelpClass.php';
    ```
 4. Use the classes as needed in your projects:
   - To use methods from the `Utility` class:
